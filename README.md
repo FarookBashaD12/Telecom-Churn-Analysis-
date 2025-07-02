@@ -8,8 +8,8 @@ The goal of this project is to analyze customer churn behavior in the telecom in
 
 ## Datasets Used
 
-- <a href="https://github.com/FarookBashaD12/Telecom-Churn-Analysis-/blob/main/Telecom%20Churn%20Analysis.xlsx">Telecom Churn Analysis</a> Raw customer data containing demographics, contract types, monthly charges, and churn status
-- - <a href="https://github.com/FarookBashaD12/Telecom-Churn-Analysis-/blob/main/Telecom%20Churn%20Analysis.sql">SQL Script</a> SQL script used for data cleaning, querying, and insight generation
+- <a href="https://github.com/FarookBashaD12/Telecom-Churn-Analysis-/blob/main/Telecom%20Churn%20Analysis.xlsx">Telecom Churn Analysis</a> - Raw customer data containing demographics, contract types, monthly charges, and churn status
+- <a href="https://github.com/FarookBashaD12/Telecom-Churn-Analysis-/blob/main/Telecom%20Churn%20Analysis.sql">SQL Script</a> - SQL script used for data cleaning, querying, and insight generation
 
 ---
 
